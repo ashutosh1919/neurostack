@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/neurostack/static/css/main.456ec486.chunk.css",
+    "main.js": "/neurostack/static/js/main.d61f841d.chunk.js",
+    "main.js.map": "/neurostack/static/js/main.d61f841d.chunk.js.map",
+    "runtime-main.js": "/neurostack/static/js/runtime-main.6cf2c14c.js",
+    "runtime-main.js.map": "/neurostack/static/js/runtime-main.6cf2c14c.js.map",
+    "static/js/2.1cde16f9.chunk.js": "/neurostack/static/js/2.1cde16f9.chunk.js",
+    "static/js/2.1cde16f9.chunk.js.map": "/neurostack/static/js/2.1cde16f9.chunk.js.map",
+    "index.html": "/neurostack/index.html",
+    "precache-manifest.edd3a308ced74464f9bef1cf22408793.js": "/neurostack/precache-manifest.edd3a308ced74464f9bef1cf22408793.js",
+    "service-worker.js": "/neurostack/service-worker.js",
+    "static/css/main.456ec486.chunk.css.map": "/neurostack/static/css/main.456ec486.chunk.css.map",
+    "static/js/2.1cde16f9.chunk.js.LICENSE.txt": "/neurostack/static/js/2.1cde16f9.chunk.js.LICENSE.txt",
+    "static/media/doctors_greetings.svg": "/neurostack/static/media/doctors_greetings.1ee4090d.svg",
+    "static/media/logo.svg": "/neurostack/static/media/logo.a2765bfc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6cf2c14c.js",
+    "static/js/2.1cde16f9.chunk.js",
+    "static/css/main.456ec486.chunk.css",
+    "static/js/main.d61f841d.chunk.js"
+  ]
+}
