@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import {Fade} from 'react-reveal';
 import './Greetings.css';
-// import greetData from '../../shared/greet_data.js';
 
 class Greetings extends Component {
     render(){
